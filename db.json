@@ -1,0 +1,12 @@
+{
+  "usersData": [
+    {
+      "id": 1,
+      "name": "Андрей Савельев",
+      "userName": "AndSav",
+      "email": "AndSav@gmail.com",
+      "phoneNumber": "+7 987 921 91 84",
+      "group": "Design Department"
+    }
+  ]
+}
